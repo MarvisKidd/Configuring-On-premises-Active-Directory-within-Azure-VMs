@@ -36,7 +36,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/MarvisKidd/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/169103317/eaac7562-1c0b-4b84-a3e1-9c650864d264)
+"/>
 </p>
 <p>
 Setup Resources in Azure
